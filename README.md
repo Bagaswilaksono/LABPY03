@@ -203,5 +203,5 @@ Demikian tutorial kali ini dalam membuat suatu program dengan menggunakan python
 
 Wasallammualaikum Warahmatullahi Wabarakatuh. 
 
-						                              Bagas Wilaksono 18.TI.A1
+						  Bagas Wilaksono 18.TI.A1
 
